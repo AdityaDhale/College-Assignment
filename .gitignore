@@ -1,0 +1,27 @@
+# Executable binaries
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# Java Compiled Class Files
+*.class
+*.jar
+*.war
+
+# VS Code & IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# CodeRunner / Temp files
+tempCodeRunnerFile*
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
